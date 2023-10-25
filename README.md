@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am an App Academy graduate and CO native with a background in Mathematics. Conditioned by an enthusiasm to learn, willingness to struggle, and patience in the problem-solving process, I view programming as an intuitive way to express my mathematical strengths.
+
+As a software engineer, I love the idea of bringing my own ideas into fruition, and bridging the gap between foreign conceptualization and a tangible, impactful end product. I am eager to apply my experience in building dynamic web applications in JavaScript, Python, and HTML/CSS.
+
+When I'm not programming, I enjoy powerlifting, trying new teas, and participating in fantasy football with friends.
+
+📫 You can find me at: 
+- [LinkedIn](https://www.linkedin.com/in/danny-yum/)
+- [Portfolio](https://dannyyum.com/)
+
 <!--
 **dhyum9/dhyum9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
