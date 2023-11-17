@@ -1,4 +1,4 @@
-![javascript](https://github.com/dhyum9/dhyum9/assets/116237655/5f560bab-e179-4a26-b22e-a1f75c992865)### Hi, I'm Danny. Welcome to my workspace.
+# Hi, I'm Danny. Welcome to my workspace.
 
 ![github-readme-anime](https://github.com/dhyum9/dhyum9/assets/116237655/dbe833b2-7b85-4497-9ecb-b98c929af529)
 
@@ -11,10 +11,13 @@ As a software engineer, I love the idea of bringing my own ideas into fruition, 
 When I'm not programming, I enjoy powerlifting, trying new teas, and participating in fantasy football with friends.
 
 ## Tech Stack
-![python-logo](https://github.com/dhyum9/dhyum9/assets/116237655/81593b6a-09fc-48f9-9f6d-670016890787)
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/a6da546a-6659-49d0-9239-a2a41aa9e92e" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/685852aa-78e7-4e85-9a6a-deca435549ec" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/6393202e-beb0-42cb-bcd9-69ba1321b9b8" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/4e95528a-b142-4b2c-bcd0-e45e835a5ef7" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/9124a946-35eb-4aea-87ab-55aedb15f867" width="50" height="50">
 
-
-## Let's Connect!!!
+## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/danny-yum/)
 - [Portfolio](https://dannyyum.com/)
