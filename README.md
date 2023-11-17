@@ -2,7 +2,7 @@
 
 ![github-readme-anime](https://github.com/dhyum9/dhyum9/assets/116237655/dbe833b2-7b85-4497-9ecb-b98c929af529)
 
-## ⚡ About Me 
+## ⚡ About Me
 
 I am an App Academy graduate and CO native with a background in Mathematics. Conditioned by an enthusiasm to learn, willingness to struggle, and patience in the problem-solving process, I view programming as an intuitive way to express my mathematical strengths.
 
@@ -14,7 +14,7 @@ When I'm not programming, I enjoy powerlifting, trying new teas, and participati
 ![python-logo](https://github.com/dhyum9/dhyum9/assets/116237655/81593b6a-09fc-48f9-9f6d-670016890787)
 
 
-## Let's Connect!
+## Let's Connect!!!
 
 - [LinkedIn](https://www.linkedin.com/in/danny-yum/)
 - [Portfolio](https://dannyyum.com/)
