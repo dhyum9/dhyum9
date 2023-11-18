@@ -15,7 +15,12 @@ When I'm not programming, I enjoy powerlifting, trying new teas, and participati
 <img src="https://github.com/dhyum9/dhyum9/assets/116237655/685852aa-78e7-4e85-9a6a-deca435549ec" width="50" height="50">
 <img src="https://github.com/dhyum9/dhyum9/assets/116237655/6393202e-beb0-42cb-bcd9-69ba1321b9b8" width="50" height="50">
 <img src="https://github.com/dhyum9/dhyum9/assets/116237655/4e95528a-b142-4b2c-bcd0-e45e835a5ef7" width="50" height="50">
-<img src="https://github.com/dhyum9/dhyum9/assets/116237655/9124a946-35eb-4aea-87ab-55aedb15f867" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/49579d84-7d54-4021-a9e9-fb8fa53662b0" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/f3f2ac18-9bec-42e5-97b2-b6494fcc8004" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/488bb8a0-0333-4414-83fd-5faad246cfc8" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/f2be818a-c9da-4839-aaed-4768dfdebaee" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/a1aed0a9-0002-4074-9fd6-1962076188ea" width="50" height="50">
+<img src="https://github.com/dhyum9/dhyum9/assets/116237655/ca775455-aff0-485a-88b1-e43c04a552a9" width="50" height="50">
 
 ## Let's Connect!
 
