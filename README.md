@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-## 🥞 Tech Stack
+## 🥞 My Tech Stack
 
 | Languages  | Frameworks/Libraries | RDBMS | ORM | IDE | Hosting | Additional Tech |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -26,6 +26,8 @@ Socket.io
 -->
 
 ## My Tech Stats
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={dhyum9}&theme={transparent}
 
 ## 🔌 Let's Connect!
 
