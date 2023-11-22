@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Danny. Welcome to my workspace. ⚡
+# ⚡ Hi, I'm Danny. Welcome to my workspace.
 
 <table>
   <tr>
@@ -25,9 +25,9 @@ Google Maps
 Socket.io 
 -->
 
-## My Tech Stats
+## 👾 My Tech Stats
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={dhyum9}&theme={transparent}
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyum9&theme=transparent)
 
 ## 🔌 Let's Connect!
 
